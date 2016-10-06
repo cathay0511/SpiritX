@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script src="http://apps.bdimg.com/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="/bf_demo/sea.js"></script>
+    <!--<script src="//cdn.bootcss.com/seajs/2.0.0/sea.js"></script>-->
+    <script src="/bf_demo/plugin-text.js"></script>
+    <script src="/bf_demo/seaconfig.js"></script>
+</head>
+<body>
+<span>hello</span>
+
+<script>
+    var tpl = '<div id="{$DOM_ID}"><span bf-dom="title">title</span><br/><span bf-dom="brief">brife</span></div>';
+
+    seajs.use('bf/BFBase/BFView', function(BFView) {
+        var bfView = new BFView($('body'), {}, tpl);
+        bfView.render();
+    });
+</script>
+</body>
+</html>

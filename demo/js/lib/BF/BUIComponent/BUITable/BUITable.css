@@ -1,0 +1,30 @@
+/* 表格 */
+.bui-table {
+    width: 100%;
+    line-height: 20px;
+    table-layout: fixed;
+}
+
+.bui-table tr {
+    border: solid 1px #e3e3e3;
+}
+
+.bui-table th {
+    height: 49px;
+    padding: 0 16px;
+    background: #f5f5f5;
+    font-size: 14px;
+    text-align: left;
+    border-right: 1px solid #e5e5e5;
+}
+
+.bui-table td {
+    height: 59px;
+    padding: 0 16px;
+    text-align: left;
+    font-size: 12px;
+}
+
+.bui-table th.bui-order-by {
+    cursor: pointer;
+}

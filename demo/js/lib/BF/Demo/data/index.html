@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script src="http://apps.bdimg.com/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!--<script src="/mark/static/js_bf/sea.js"></script>-->
+    <script src="//cdn.bootcss.com/seajs/2.0.0/sea.js"></script>
+    <script src="/mark/static/js_bf/plugin-text.js"></script>
+    <script src="/mark/static/js_bf/seaconfig_local.js"></script>
+</head>
+<body>
+<span>hello</span>
+
+<script>
+
+    seajs.use('bf/Demo/data/SampleData', function(SampleData) {
+        var sampleData = new SampleData($('body'), {title: 'hi', brief: 'cathay'});
+        sampleData.render();
+    });
+</script>
+</body>
+</html>

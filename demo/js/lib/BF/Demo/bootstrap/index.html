@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script src="http://apps.bdimg.com/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!--<script src="/mark/static/js_bf/sea.js"></script>-->
+    <script src="//cdn.bootcss.com/seajs/2.0.0/sea.js"></script>
+    <script src="/mark-2-0-6_BRANCH/static/js_bf/plugin-text.js"></script>
+    <script src="/mark-2-0-6_BRANCH/static/js_bf/seaconfig_local.js"></script>
+    <link rel="stylesheet" type="text/css" href="/mark-2-0-6_BRANCH/static/css/lib/bui.css">
+</head>
+<body>
+<span>hello</span>
+
+<script>
+
+    seajs.use('bf/Demo/bootstrap/BFApp', function(BFApp) {
+        var app = new BFApp();
+        app.run().then(function (ret) {
+            seajs.use('bf/Demo/bootstrap/SampleBootstrap', function(SampleBootstrap) {
+                var model = {
+                    app: ret
+                }
+                var sampleBootstrap = new SampleBootstrap($('body'), model);
+                sampleBootstrap.render();
+            });
+        });
+    });
+</script>
+</body>
+</html>

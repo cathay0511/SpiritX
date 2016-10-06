@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="/demo/js/static/css/mobase.css">
+    <link rel="stylesheet" type="text/css" href="/demo/js/static/css/global.css">
+    <link rel="stylesheet" type="text/css" href="/demo/js/static/css/hui_iconfont_v1.0.6/iconfont.css">
+</head>
+<body>
+<script src="http://apps.bdimg.com/libs/jquery/1.11.1/jquery.min.js"></script>
+<!--<script src="/demo/js/sea.js"></script>-->
+<script src="//cdn.bootcss.com/seajs/2.0.0/sea.js"></script>
+<script src="/demo/js/plugin-text.js"></script>
+<script src="/demo/js/seaconfig.js"></script>
+<script>
+    seajs.use('biz/app/MyApp', function(MyApp) {
+        window.myApp = myApp = new MyApp();
+        myApp.run().then(function (ret) {
+            seajs.use('biz/demo/SampleBootstrap/SampleBootstrap', function(SampleBootstrap) {
+                var sampleBootstrap = new SampleBootstrap($('body'), {});
+                sampleBootstrap.render();
+            });
+        });
+    });
+</script>
+</body>
+</html>

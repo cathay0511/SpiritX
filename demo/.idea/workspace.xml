@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c368be13-3036-499c-99da-3a7bc5198bf7" name="Default" comment="" />
+    <ignored path="demo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="demo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="75" selection-start="833" selection-end="833" vertical-scroll-proportion="0.0" vertical-offset="83" max-vertical-offset="800">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SampleBootstrap.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="78" selection-start="1146" selection-end="1146" vertical-scroll-proportion="0.36751" vertical-offset="599" max-vertical-offset="2925">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BFView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/lib/BF/BFBase/BFView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="25" selection-start="1433" selection-end="1433" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="7350">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/js/seaconfig.js" />
+        <option value="$PROJECT_DIR$/js/spirits/biz/app/MyApp.js" />
+        <option value="$PROJECT_DIR$/js/spirits/biz/demo/index.html" />
+        <option value="$PROJECT_DIR$/js/static/css/global.css" />
+        <option value="$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.css" />
+        <option value="$PROJECT_DIR$/js/spirits/widget/TableOpList/TableOpList.js" />
+        <option value="$PROJECT_DIR$/js/spirits/widget/MoreOpMenu/MoreOpMenu.js" />
+        <option value="$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.tpl" />
+        <option value="$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/index.html" />
+        <option value="$PROJECT_DIR$/readme.html" />
+        <option value="$PROJECT_DIR$/js/lib/BF/BFBase/BFView.js" />
+        <option value="$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.js" />
+        <option value="$PROJECT_DIR$/js/lib/BF/BFBase/BFDom.js" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1384" />
+    <option name="height" value="888" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../projects/crowdtest_trunk_common/mark_trunk" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\surface\documents\结构化对象\前端\综述\高可维护的前端解决方案\demo\js\static\css" />
+      <recent name="C:\surface\documents\结构化对象\前端\综述\高可维护的前端解决方案\demo\js\spirits\widget" />
+      <recent name="C:\surface\documents\结构化对象\前端\综述\高可维护的前端解决方案\demo\js\spirits\component" />
+      <recent name="C:\surface\documents\结构化对象\前端\综述\高可维护的前端解决方案\demo\js\spirits\biz\demo\SampleBootstrap" />
+      <recent name="C:\surface\documents\结构化对象\前端\综述\高可维护的前端解决方案\demo\js\spirits\biz\app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\surface\documents\结构化对象\前端\综述\高可维护的前端解决方案\demo\js\spirits\biz\demo\SampleBootstrap" />
+      <recent name="C:\surface\documents\结构化对象\前端\综述\高可维护的前端解决方案\demo\js\spirits" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c368be13-3036-499c-99da-3a7bc5198bf7" name="Default" comment="" />
+      <created>1464506411821</created>
+      <updated>1464506411821</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1384" height="888" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22733918" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991013" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991013" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22733918" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/readme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="7" selection-start="4683" selection-end="4683" vertical-scroll-proportion="0.0" vertical-offset="3900" max-vertical-offset="9575" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="29" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="124" max-vertical-offset="875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/seaconfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="3" selection-start="0" selection-end="184" vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="55" selection-start="3289" selection-end="3289" vertical-scroll-proportion="0.0" vertical-offset="2225" max-vertical-offset="2825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="11" selection-start="1015" selection-end="1015" vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="29" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="124" max-vertical-offset="875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/seaconfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="3" selection-start="0" selection-end="184" vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="56" selection-start="3414" selection-end="3414" vertical-scroll-proportion="0.0" vertical-offset="1199" max-vertical-offset="1950" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="33" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="29" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="124" max-vertical-offset="875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/seaconfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="3" selection-start="0" selection-end="184" vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="9" selection-start="3232" selection-end="3232" vertical-scroll-proportion="0.0" vertical-offset="1950" max-vertical-offset="1950" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="33" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="29" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="124" max-vertical-offset="875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/seaconfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="3" selection-start="0" selection-end="184" vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="3" selection-start="3692" selection-end="3692" vertical-scroll-proportion="0.0" vertical-offset="1199" max-vertical-offset="1950" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="11" selection-start="1015" selection-end="1015" vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="14" selection-start="1290" selection-end="1290" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="13" selection-start="3018" selection-end="3018" vertical-scroll-proportion="0.0" vertical-offset="1950" max-vertical-offset="1950" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="11" selection-start="1015" selection-end="1015" vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="14" selection-start="1290" selection-end="1290" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="0" selection-start="3357" selection-end="3357" vertical-scroll-proportion="0.0" vertical-offset="1950" max-vertical-offset="1950" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="11" selection-start="1015" selection-end="1015" vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="14" selection-start="1290" selection-end="1290" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="56" selection-start="3346" selection-end="3346" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1950" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="50" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0" vertical-offset="83" max-vertical-offset="800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="71" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="40" selection-start="1415" selection-end="1415" vertical-scroll-proportion="0.0" vertical-offset="1025" max-vertical-offset="2825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="50" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="29" selection-start="809" selection-end="809" vertical-scroll-proportion="0.0" vertical-offset="400" max-vertical-offset="875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/static/css/mobase.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="26050" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/BF/BUIComponent/BUITable/BUITable.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="140" selection-end="301" vertical-scroll-proportion="0.14148352" vertical-offset="172" max-vertical-offset="900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/app/MyApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="19" selection-start="212" selection-end="212" vertical-scroll-proportion="0.2663116" vertical-offset="0" max-vertical-offset="900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/static/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1460" column="1" selection-start="26506" selection-end="26506" vertical-scroll-proportion="0.9482517" vertical-offset="35822" max-vertical-offset="36650" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/BF/BUIComponent/BUISearchSelect/BUISearchSelect.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="4" selection-start="151" selection-end="173" vertical-scroll-proportion="0.2663116" vertical-offset="0" max-vertical-offset="975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="751" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/widget/TableOpList/TableOpList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="29" selection-start="275" selection-end="275" vertical-scroll-proportion="0.1693767" vertical-offset="0" max-vertical-offset="3775" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/component/SwitchOnOff/swicth.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="738" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/static/css/hui_iconfont_v1.0.6/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="39350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/BF/BUIComponent/BUITable/BUITable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.0162601" vertical-offset="750" max-vertical-offset="4000" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="17" selection-start="114" selection-end="114" vertical-scroll-proportion="0.1377841" vertical-offset="53" max-vertical-offset="9575" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="29" selection-start="514" selection-end="514" vertical-scroll-proportion="0.14086471" vertical-offset="124" max-vertical-offset="875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/seaconfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="3" selection-start="0" selection-end="184" vertical-scroll-proportion="0.2663116" vertical-offset="0" max-vertical-offset="751" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/component/SwitchOnOff/SwitchOnOff.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="1775" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/BF/BFBase/BFDom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="46" selection-start="2589" selection-end="2599" vertical-scroll-proportion="0.5672437" vertical-offset="1799" max-vertical-offset="2550" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/BF/BUIComponent/BUISearchSelect/BUISearchSelect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="1441" selection-end="1441" vertical-scroll-proportion="0.31707317" vertical-offset="691" max-vertical-offset="3400" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/BF/BUIComponent/BUISearchSelect/dom/SearchSelectInputDom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="35" selection-start="569" selection-end="569" vertical-scroll-proportion="0.0" vertical-offset="161" max-vertical-offset="1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/widget/MoreOpMenu/MoreOpMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="44" selection-start="1378" selection-end="1378" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="2375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/BF/BFBase/BFView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="25" selection-start="1433" selection-end="1433" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="7350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="75" selection-start="833" selection-end="833" vertical-scroll-proportion="0.0" vertical-offset="83" max-vertical-offset="800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/spirits/biz/demo/SampleBootstrap/SampleBootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="78" selection-start="1146" selection-end="1146" vertical-scroll-proportion="0.36751" vertical-offset="599" max-vertical-offset="2925">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

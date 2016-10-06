@@ -1,0 +1,34 @@
+.BUISearchSelect .BUISearchSelectInputWrap {
+    width: 100%;
+}
+
+.BUISearchSelect input {
+    width: 100%;
+    padding: 6px;
+    border-radius: 0;
+    box-sizing:border-box;
+}
+
+.BUISearchSelect .BUISearchSelectItemList {
+    position: absolute;
+    width: 100%;
+    background-color: #fff;
+    border: 1px solid #efefef;
+    padding: 0;
+    margin: 0;
+    height: 160px;
+    z-index: 10000;
+    overflow-y: auto;
+}
+
+.BUISearchSelect .BUISearchSelectItemList .item {
+    display: inline-block;
+    width: 100%;
+    padding: 0 6px;
+    cursor: pointer;
+}
+
+.BUISearchSelect .BUISearchSelectItemList .item:hover {
+    color: #fff;
+    background: #48aefe;
+}

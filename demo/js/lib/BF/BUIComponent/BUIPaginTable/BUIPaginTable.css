@@ -1,0 +1,23 @@
+.bui-pagination .pagination-container {
+    display: inline-block;
+}
+
+.bui-pagination li {
+    display: inline-block;
+    width: 30px;
+    margin-right: -1px;
+    display: inline-block;
+    border: 1px solid #b0c0e7;
+    background-color: #f1f5fd;
+    cursor: pointer;
+    text-decoration: none;
+    color: #2e4c93;
+    text-align: center;
+    line-height: 30px;
+}
+
+.bui-pagination li.active {
+    border: 1px solid #b0c0e7;
+    background: #6583cc;
+    color: #fff;
+}

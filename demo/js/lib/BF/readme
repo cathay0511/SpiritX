@@ -1,0 +1,6 @@
+methodology
+- 【spirit边界】（与外部的交互）是由以下三部分构成的
+     - model
+     - interface
+     - delegate
+- 【spirit模板】主要确定内部 spirit 在表现层的层次关系
