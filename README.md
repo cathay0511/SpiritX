@@ -99,34 +99,34 @@ define(function(require, exports, module) {
 <pre>
 <code>
     &lt;div id="{$DOM_ID}"&gt;
-    &lt;p style="font-size: 48px; text-align: center;"&gt;hello, egg&lt;/p&gt;
-    &lt;p style="font-size: 48px; color: #efefef; text-align: center;"&gt;最大的不同，即是处处都不同&lt;/p&gt;
-    &lt;div class="bui-info"&gt;
-    &lt;label class="bui-column bui-label-large pt5"&gt;组件示例&lt;/label&gt;
-    &lt;div class="bui-row"&gt;
-    &lt;label class="bui-column-thin bui-label tr"&gt;可搜索下拉框：&lt;/label&gt;
-    &lt;div style="width: 250px; position: relative;" bf-container="SampleSearchSelect"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class="bui-row"&gt;
-    &lt;label class="bui-column-thin bui-label tr"&gt;表格：&lt;/label&gt;
-    &lt;div style="width: 600px;" bf-container="SampleTable"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class="bui-info"&gt;
-    &lt;label class="bui-column bui-label-large pt5"&gt;数据绑定示例&lt;/label&gt;
-    &lt;div class="bui-row"&gt;
-    &lt;label class="bui-column-thin bui-label tr"&gt;Input1：&lt;/label&gt;
-    &lt;input class="w250" type="text" bf-dom="input1"&gt;
-    &lt;/div&gt;
-    &lt;div class="bui-row"&gt;
-    &lt;label class="bui-column-thin bui-label tr"&gt;Input2：&lt;/label&gt;
-    &lt;input class="w250" type="text" bf-dom="input2"&gt;
-    &lt;/div&gt;
-    &lt;div class="bui-row"&gt;
-    &lt;label class="bui-column-thin bui-label tr"&gt;span1：&lt;/label&gt;
-    &lt;span bf-dom="span1"&gt;&lt;/span&gt;
-    &lt;/div&gt;
-    &lt;/div&gt;
+        &lt;p style="font-size: 48px; text-align: center;"&gt;hello, egg&lt;/p&gt;
+        &lt;p style="font-size: 48px; color: #efefef; text-align: center;"&gt;最大的不同，即是处处都不同&lt;/p&gt;
+        &lt;div class="bui-info"&gt;
+            &lt;label class="bui-column bui-label-large pt5"&gt;组件示例&lt;/label&gt;
+            &lt;div class="bui-row"&gt;
+                &lt;label class="bui-column-thin bui-label tr"&gt;可搜索下拉框：&lt;/label&gt;
+                &lt;div style="width: 250px; position: relative;" bf-container="SampleSearchSelect"&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="bui-row"&gt;
+                &lt;label class="bui-column-thin bui-label tr"&gt;表格：&lt;/label&gt;
+                &lt;div style="width: 600px;" bf-container="SampleTable"&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="bui-info"&gt;
+            &lt;label class="bui-column bui-label-large pt5"&gt;数据绑定示例&lt;/label&gt;
+            &lt;div class="bui-row"&gt;
+                &lt;label class="bui-column-thin bui-label tr"&gt;Input1：&lt;/label&gt;
+                &lt;input class="w250" type="text" bf-dom="input1"&gt;
+            &lt;/div&gt;
+            &lt;div class="bui-row"&gt;
+                &lt;label class="bui-column-thin bui-label tr"&gt;Input2：&lt;/label&gt;
+                &lt;input class="w250" type="text" bf-dom="input2"&gt;
+            &lt;/div&gt;
+            &lt;div class="bui-row"&gt;
+                &lt;label class="bui-column-thin bui-label tr"&gt;span1：&lt;/label&gt;
+                &lt;span bf-dom="span1"&gt;&lt;/span&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
     &lt;/div&gt;
 </code>
 </pre>
@@ -136,28 +136,28 @@ define(function(require, exports, module) {
     &lt;!DOCTYPE html&gt;
     &lt;html&gt;
     &lt;head&gt;
-    &lt;title&gt;&lt;/title&gt;
-    &lt;link rel="stylesheet" type="text/css" href="/demo/js/static/css/mobase.css"&gt;
-    &lt;link rel="stylesheet" type="text/css" href="/demo/js/static/css/global.css"&gt;
-    &lt;link rel="stylesheet" type="text/css" href="/demo/js/static/css/hui_iconfont_v1.0.6/iconfont.css"&gt;
+        &lt;title&gt;SpiritX&lt;/title&gt;
+        &lt;link rel="stylesheet" type="text/css" href="/demo/js/static/css/mobase.css"&gt;
+        &lt;link rel="stylesheet" type="text/css" href="/demo/js/static/css/global.css"&gt;
+        &lt;link rel="stylesheet" type="text/css" href="/demo/js/static/css/hui_iconfont_v1.0.6/iconfont.css"&gt;
     &lt;/head&gt;
     &lt;body&gt;
-    &lt;script src="http://apps.bdimg.com/libs/jquery/1.11.1/jquery.min.js"&gt;&lt;/script&gt;
-    &lt;!--&lt;script src="/demo/js/sea.js"&gt;&lt;/script&gt;--&gt;
-    &lt;script src="//cdn.bootcss.com/seajs/2.0.0/sea.js"&gt;&lt;/script&gt;
-    &lt;script src="/demo/js/plugin-text.js"&gt;&lt;/script&gt;
-    &lt;script src="/demo/js/seaconfig.js"&gt;&lt;/script&gt;
-    &lt;script&gt;
-    seajs.use('biz/app/MyApp', function(MyApp) {
-    window.myApp = myApp = new MyApp();
-    myApp.run().then(function (ret) {
-    seajs.use('biz/demo/SampleBootstrap/SampleBootstrap', function(SampleBootstrap) {
-    var sampleBootstrap = new SampleBootstrap($('body'), {});
-    sampleBootstrap.render();
-    });
-    });
-    });
-    &lt;/script&gt;
+        &lt;script src="http://apps.bdimg.com/libs/jquery/1.11.1/jquery.min.js"&gt;&lt;/script&gt;
+        &lt;!--&lt;script src="/demo/js/sea.js"&gt;&lt;/script&gt;--&gt;
+        &lt;script src="//cdn.bootcss.com/seajs/2.0.0/sea.js"&gt;&lt;/script&gt;
+        &lt;script src="/demo/js/plugin-text.js"&gt;&lt;/script&gt;
+        &lt;script src="/demo/js/seaconfig.js"&gt;&lt;/script&gt;
+        &lt;script&gt;
+            seajs.use('biz/app/MyApp', function(MyApp) {
+            window.myApp = myApp = new MyApp();
+            myApp.run().then(function (ret) {
+            seajs.use('biz/demo/SampleBootstrap/SampleBootstrap', function(SampleBootstrap) {
+                var sampleBootstrap = new SampleBootstrap($('body'), {});
+                sampleBootstrap.render();
+                });
+            });
+        });
+        &lt;/script&gt;
     &lt;/body&gt;
     &lt;/html&gt;
 </code>
@@ -305,10 +305,6 @@ define(function(require, exports, module) {
 <h2>基本思想</h2>
 <ul>
     <li>
-        <p>理论基础</p>
-        <p><a href='http://182.92.1.178:8080/yk_index/template/index.html#section_model_SOM'>八云哲学体系-结构化对象层</a></p>
-    </li>
-    <li>
         <p>基本概念</p>
         <p>前端特殊性：html与JS的分离</p>
         <p>前端业务逻辑：一段html片段的业务逻辑是其所有交互事件及其处理逻辑的总和</p>
@@ -411,9 +407,6 @@ define(function(require, exports, module) {
     </li>
     <li>
         <p>React.js</p>
-    </li>
-    <li>
-        <p>Metor</p>
     </li>
     <li>
         <p>ECMAScript 6（ES6）</p>
